@@ -31,4 +31,14 @@ public:
 
 
 };
+class Tree : public shape {
+	Rect* root;
+	Triangle* T1;
+	Triangle* T2;
+	Triangle* T3;
+	Triangle* T4;
+public:
+	Tree(game* r_pGame, point ref);
+	virtual void draw() const;
 
+};

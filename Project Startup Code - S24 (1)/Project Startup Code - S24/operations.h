@@ -26,3 +26,10 @@ public:
 	virtual void Act();
 };
 
+class operAddTree : public operation
+{
+public:
+	operAddTree(game* r_pGame);
+	virtual void Act();
+};
+

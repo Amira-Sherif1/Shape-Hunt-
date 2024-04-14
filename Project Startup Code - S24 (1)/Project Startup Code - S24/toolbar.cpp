@@ -15,9 +15,18 @@ toolbar::toolbar(game* pG)
 
 	//First prepare List of images for each toolbar item
 	toolbarItemImages[ITM_SIGN] = "images\\toolbarItems\\toolbar_sign.jpg";
-	toolbarItemImages[ITM_EXIT] = "images\\toolbarItems\\toolbar_Exit.jpg";
-
-	//TODO: Prepare image for each toolbar item and add it to the list
+	toolbarItemImages[Itm_Tree] = "images\\toolbarItems\\Tree.jpg";
+	toolbarItemImages[Itm_increase] = "images\\toolbarItems\\increase.jpg";
+	toolbarItemImages[Itm_decrease] = "images\\toolbarItems\\Decrease.jpg";
+	toolbarItemImages[Itm_rotate] = "images\\toolbarItems\\rotation.jpg";
+	toolbarItemImages[Itm_refresh] = "images\\toolbarItems\\captcha.jpg";
+	toolbarItemImages[Itm_hint] = "images\\toolbarItems\\hint.jpg";
+	toolbarItemImages[Itm_delet] = "images\\toolbarItems\\DeleteIcon.jpg";
+	toolbarItemImages[Itm_S_G_LEVEL] = "images\\toolbarItems\\level-up.jpg";
+	toolbarItemImages[Itm_load] = "images\\toolbarItems\\Load.jpg";
+	toolbarItemImages[Itm_SAVE] = "images\\toolbarItems\\download.jpg";
+	toolbarItemImages[ITM_EXIT] = "images\\toolbarItems\\exit.jpg";
+	                                                   //TODO: Prepare image for each toolbar item and add it to the list
 
 	//Draw toolbar item one image at a time
 	for (int i = 0; i < ITM_CNT; i++)

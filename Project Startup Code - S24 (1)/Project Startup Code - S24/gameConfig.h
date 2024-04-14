@@ -42,6 +42,12 @@ struct
 		int topWdth = 100, topHeight = 50;
 	}sighShape;
 
+	struct {
+		int recthight = 25, rectwdth = 18;
+		int trilen=100;
+		int trihigh= trilen *cos(3.14/ 3);
+	}Tree;
+
 }config;
 
 
@@ -50,10 +56,22 @@ enum toolbarItem //The items of the  toolbar (you should add more items)
 	//Note: Items are ordered here as they appear in the toolbar
 	//If you want to change the toolbar items order, just change the order here
 	ITM_SIGN,		//Sign shape item
-
+	Itm_Tree,
+	//Itm_shape3,
+	//Itm_shape4,
+	//Itm_shape5,
+	//Itm_shape6,
+	Itm_increase,
+	Itm_decrease,
+	Itm_rotate,
+	Itm_refresh,
+	Itm_hint,
+	Itm_delet,
+	Itm_S_G_LEVEL,
+	Itm_load,
+	Itm_SAVE,
 	ITM_EXIT,		//Exit item
-	//TODO: Add more items names here
-
+	              //TODO: Add more items names here
 	ITM_CNT		//no. of toolbar items ==> This should be the last line in this enum
 
 };

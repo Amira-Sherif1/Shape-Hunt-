@@ -68,6 +68,8 @@ operation* game::createRequiredOperation(toolbarItem clickedItem)
 	case ITM_SIGN:
 		op = new operAddSign(this);
 		break;
+	case Itm_Tree:
+		op = new operAddTree(this);
 	}
 	return op;
 }

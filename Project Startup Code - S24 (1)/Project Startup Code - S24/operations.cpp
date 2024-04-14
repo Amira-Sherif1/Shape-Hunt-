@@ -36,3 +36,20 @@ void operAddSign::Act()
 	pGrid->setActiveShape(psh);
 
 }
+operAddTree::operAddTree(game* p_Game): operation(p_Game)
+{
+}
+void operAddTree::Act() {
+	window* pw= pGame->getWind();
+
+	int xGrid = config.RefX - config.RefX % config.gridSpacing;
+	int yGrid = config.RefY - config.RefX % config.gridSpacing;
+
+	point TreeShapeRef = { xGrid , yGrid };
+
+	shape* ptr = new Tree(pGame, TreeShapeRef);
+
+	grid* pGrid = pGame->getGrid();
+	pGrid->setActiveShape(ptr);
+
+}

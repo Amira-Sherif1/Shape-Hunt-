@@ -1,0 +1,22 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  BasicShapes.cpp
+D:\year1 sems2\cie 101 C++\Shape_Hunt\Shape-Hunt-\Project Startup Code - S24 (1)\Project Startup Code - S24\gameConfig.h(35,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BasicShapes.cpp')
+  
+D:\year1 sems2\cie 101 C++\Shape_Hunt\Shape-Hunt-\Project Startup Code - S24 (1)\Project Startup Code - S24\gameConfig.h(36,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BasicShapes.cpp')
+  
+D:\year1 sems2\cie 101 C++\Shape_Hunt\Shape-Hunt-\Project Startup Code - S24 (1)\Project Startup Code - S24\gameConfig.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BasicShapes.cpp')
+  
+D:\year1 sems2\cie 101 C++\Shape_Hunt\Shape-Hunt-\Project Startup Code - S24 (1)\Project Startup Code - S24\BasicShapes.cpp(49,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  toolbar.cpp
+  shape.cpp
+  operations.cpp
+  main.cpp
+  grid.cpp
+  game.cpp
+  CompositeShapes.cpp
+  CIE202-project.vcxproj -> D:\year1 sems2\cie 101 C++\Shape_Hunt\Shape-Hunt-\Project Startup Code - S24 (1)\Project Startup Code - S24\Debug\CIE202-project.exe
