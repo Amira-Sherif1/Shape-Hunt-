@@ -1,5 +1,7 @@
 #include "CompositeShapes.h"
 #include "gameConfig.h"
+#include "game.h"
+#include "BasicShapes.cpp"
 
 ////////////////////////////////////////////////////  class Sign  ///////////////////////////////////////
 Sign::Sign(game* r_pGame, point ref):shape(r_pGame, ref)
@@ -43,4 +45,20 @@ void Tree::draw() const
 	root->draw();
 }
 
+arrow::arrow(game* r_pGame, point ref, int size = 50) :shape(r_pGame, ref) {
+	window &wind = *r_pGame->getWind() ;
+	T1->SetHight(size); T1->SetLenght(2 * size); T1->setRefPoint(ref);
+	rect1->SetHght(size / 2); rect1->Setwdht(size / 5); rect1->setRefPoint({ref.x + (size / 2),ref.y+(size/2)}); }
 
+void arrow::SetSize(int s) {
+	size = s; point &ref = shape::GetRefPoint();
+T1->SetHight(size); T1->SetLenght(2 * size); T1->setRefPoint(ref);
+rect1->SetHght(size / 2); rect1->Setwdht(size / 5); rect1->setRefPoint({ ref.x + (size / 2),ref.y + (size / 2) });
+};
+
+int arrow::GetSize() const { return size; };
+
+void arrow::draw() const {
+	T1->draw();
+	rect1->draw();
+}

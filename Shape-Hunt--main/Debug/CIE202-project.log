@@ -1,187 +1,109 @@
 ﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
-  toolbar.cpp
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(35,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'toolbar.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(36,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'toolbar.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'toolbar.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(55,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'toolbar.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(57,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'toolbar.cpp')
-  
-  main.cpp
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(35,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'main.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(36,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'main.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'main.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(55,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'main.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(57,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'main.cpp')
-  
-  grid.cpp
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(35,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'grid.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(36,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'grid.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'grid.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(55,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'grid.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(57,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'grid.cpp')
-  
-  game.cpp
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(35,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'game.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(36,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'game.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'game.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(55,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'game.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(57,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'game.cpp')
-  
-  shape.cpp
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(35,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'shape.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(36,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'shape.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'shape.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(55,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'shape.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(57,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'shape.cpp')
-  
-  operations.cpp
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(35,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'operations.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(36,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'operations.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'operations.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(55,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'operations.cpp')
-  
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(57,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'operations.cpp')
-  
   CompositeShapes.cpp
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(35,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(35,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   (compiling source file 'CompositeShapes.cpp')
   
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(36,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(36,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   (compiling source file 'CompositeShapes.cpp')
   
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   (compiling source file 'CompositeShapes.cpp')
   
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(55,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(55,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   (compiling source file 'CompositeShapes.cpp')
   
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(57,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(57,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   (compiling source file 'CompositeShapes.cpp')
   
-  windowinput.cpp
-  mousequeue.cpp
-  keyqueue.cpp
-  image.cpp
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\CMUgraphicsLib\image.cpp(115,29): warning C4018: '<': signed/unsigned mismatch
-  CMUgraphics.cpp
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\CMUgraphicsLib\CMUgraphics.cpp(257,9): warning C4101: 'iX': unreferenced local variable
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\CMUgraphicsLib\CMUgraphics.cpp(257,13): warning C4101: 'iY': unreferenced local variable
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\CMUgraphicsLib\CMUgraphics.cpp(751,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\CMUgraphicsLib\CMUgraphics.cpp(1164,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\CMUgraphicsLib\CMUgraphics.cpp(1171,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\CMUgraphicsLib\CMUgraphics.cpp(1202,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\CMUgraphicsLib\CMUgraphics.cpp(1210,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\CMUgraphicsLib\CMUgraphics.cpp(1357,23): warning C4018: '>': signed/unsigned mismatch
-  auxil.cpp
+C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\BasicShapes.cpp(67,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'CompositeShapes.cpp')
+  
+C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(48,51): error C2572: 'arrow::arrow': redefinition of default argument: parameter 1
+  C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.h(78,2):
+  see declaration of 'arrow::arrow'
+  
+C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(50,18): error C2059: syntax error: ','
   BasicShapes.cpp
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(35,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(51,19): error C2676: binary '+': 'point' does not define this operator or a conversion to a type acceptable to the predefined operator
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5034,62):
+  could be 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem)'
+  	C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(51,15):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &&' from 'point'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5028,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem *const )'
+  	C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(51,15):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem *const )': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &&' from 'point'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5022,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,std::basic_string<_Elem,_Traits,_Alloc> &&)'
+  	C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(51,15):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &&' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5016,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *const ,std::basic_string<_Elem,_Traits,_Alloc> &&)'
+  	C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(51,15):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *const ,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'const _Elem *const ' from 'point'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5003,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,std::basic_string<_Elem,_Traits,_Alloc> &&)'
+  	C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(51,15):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &&' from 'point'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4997,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(51,15):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &&' from 'point'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4991,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,std::basic_string<_Elem,_Traits,_Alloc> &&)'
+  	C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(51,15):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'point'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4980,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+  	C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(51,15):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'point'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4967,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )'
+  	C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(51,15):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'point'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4956,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(51,15):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4943,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(51,15):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const _Elem *const ' from 'point'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4931,62):
+  or       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(51,15):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'point'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(4311,5):
+  or       'std::move_iterator<_Iter> std::operator +(move_iterator<_Iter>::difference_type,const std::move_iterator<_Iter> &) noexcept(<expr>)'
+  	C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(51,15):
+  	'std::move_iterator<_Iter> std::operator +(move_iterator<_Iter>::difference_type,const std::move_iterator<_Iter> &) noexcept(<expr>)': could not deduce template argument for 'const std::move_iterator<_Iter> &' from 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(1792,50):
+  or       'std::reverse_iterator<_BidIt> std::operator +(reverse_iterator<_BidIt>::difference_type,const std::reverse_iterator<_BidIt> &) noexcept(<expr>)'
+  	C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(51,15):
+  	'std::reverse_iterator<_BidIt> std::operator +(reverse_iterator<_BidIt>::difference_type,const std::reverse_iterator<_BidIt> &) noexcept(<expr>)': could not deduce template argument for 'const std::reverse_iterator<_BidIt> &' from 'int'
+  
+C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\CompositeShapes.cpp(51,2): error C2064: term does not evaluate to a function taking 3 arguments
+C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(35,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   (compiling source file 'BasicShapes.cpp')
   
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(36,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(36,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   (compiling source file 'BasicShapes.cpp')
   
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(48,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   (compiling source file 'BasicShapes.cpp')
   
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(55,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(55,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   (compiling source file 'BasicShapes.cpp')
   
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(57,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\gameConfig.h(57,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   (compiling source file 'BasicShapes.cpp')
   
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\BasicShapes.cpp(49,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\moham\source\repos\Amira-Sherif1\Shape-Hunt-\Shape-Hunt--main\BasicShapes.cpp(67,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   Generating Code...
-cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
-  jutils.c
-  jquant2.c
-  jquant1.c
-  jmemnobs.c
-  jmemmgr.c
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\CMUgraphicsLib\jpeg\jmemmgr.c(1103,19): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\CMUgraphicsLib\jpeg\jmemmgr.c(1106,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  jidctred.c
-  jidctint.c
-  jidctfst.c
-  jidctflt.c
-  jerror.c
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\CMUgraphicsLib\jpeg\jerror.c(169,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\CMUgraphicsLib\jpeg\jerror.c(171,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  jdtrans.c
-  jdsample.c
-  jdpostct.c
-  jdphuff.c
-  jdmerge.c
-  jdmaster.c
-  jdmarker.c
-  jdmainct.c
-  jdinput.c
-  jdhuff.c
-  Generating Code...
-  Compiling...
-  jddctmgr.c
-  jdcolor.c
-  jdcoefct.c
-  jdatasrc.c
-  jdapistd.c
-  jdapimin.c
-  jcparam.c
-  jcomapi.c
-  jpegload.c
-C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\CMUgraphicsLib\jpegload.c(23,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  Generating Code...
-  LINK : .\Debug\CIE202-project.exe not found or not built by the last incremental link; performing full link
-BasicShapes.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
-  CIE202-project.vcxproj -> C:\Users\Amira\Desktop\Shape-Hunt-\Shape-Hunt--main\Debug\CIE202-project.exe
+  Skipping... (no relevant changes detected)
+  toolbar.cpp
+  shape.cpp
+  operations.cpp
+  main.cpp
+  grid.cpp
+  game.cpp

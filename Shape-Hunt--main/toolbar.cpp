@@ -59,3 +59,43 @@ toolbarItem toolbar::getItemClicked(int x)
 
 }
 
+void toolbar::ToolbarClicker(game *g) {
+	window& win = *g->getWind();
+	int MouseX, MouseY;
+	clicktype ClkType = win.WaitMouseClick(MouseX, MouseY);
+	for (int i = 0; i < 9; i++) {
+		if (MouseX >= config.windWidth * i && MouseX <= config.windWidth * (i + 1) && MouseY <= height) {
+			win.SetPen(BLACK); string text;
+			switch (i) {
+			case(0):
+				text = "You Pressed on All compsite shapes item";
+				break;
+			case(1):
+				text = "You Pressed on Increase (+) size and Decrease (-) size item";
+				break;
+			case(2):
+				text = "You Pressed on Rotate item";
+				break;
+			case(3):
+				text = "You Pressed on Refresh item";
+				break;
+			case(4):
+				text = "You Pressed on Hint item";
+				break;
+			case(5):
+				text = "You Pressed on Delete item";
+				break;
+			case(6):
+				text = "You Pressed on Select game level item";
+				break;
+			case(7):
+				text = "You Pressed on Save and load item";
+				break;
+			case(8):
+				text = "You Pressed on Exit item";
+				break;
+			}
+			win.DrawString( config.windWidth * i, height + 20, text);
+		}
+	}
+}

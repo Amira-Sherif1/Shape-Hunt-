@@ -14,3 +14,6 @@ void shape::setRefPoint(point p)
 {
 	RefPoint = p;
 }
+point shape::GetRefPoint() const {
+	return RefPoint;
+};

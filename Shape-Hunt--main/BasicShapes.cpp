@@ -24,6 +24,19 @@ void Rect::draw() const
 
 	pW->DrawRectangle(upperLeft.x, upperLeft.y, lowerBottom.x, lowerBottom.y, FILLED);
 }
+void Rect::SetHght(int h) {
+	hght = h;
+};
+void Rect::Setwdht(int w) {
+	wdth = w;
+};
+int Rect::GetHght() const {
+	return hght;
+};
+int Rect::GetWdht() const {
+	return wdth;
+};
+
 
 ////////////////////////////////////////////////////  class circle  ///////////////////////////////////////
 //TODO: Add implementation for class circle here
@@ -31,7 +44,12 @@ circle::circle(game* r_pGame, point ref, int r):shape(r_pGame,ref)
 {
 	rad = r;
 }
-
+void circle::SetRad(int c) {
+	rad = c;
+};
+int circle::GetRad() const {
+	return rad;
+};
 void circle::draw() const
 {
 	window* pW = pGame->getWind();	//get interface window
@@ -62,3 +80,11 @@ void Triangle::draw()const {
 	p3.y = RefPoint.y - hight;
 	pW->DrawTriangle(p1.x, p1.y, p2.x, p2.y,p3.x,p3.y,FILLED);
 }
+void Triangle::SetLenght(int h) { length = h; };
+void Triangle::SetHight(int w) {
+	hight = w;
+};
+int Triangle::GetHight() const {
+	return hight;
+};
+int Triangle::Getlenght() const { return length; };

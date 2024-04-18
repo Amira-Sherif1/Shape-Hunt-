@@ -1,5 +1,7 @@
 #pragma once
 #include "Basicshapes.h"
+#include "game.h"
+#include "BasicShapes.h"
 
 
 ////////////////////////////////////////////////////  class Sign  ///////////////////////////////////////
@@ -65,4 +67,17 @@ class Butterfly : public shape {
 public:
 	Butterfly(game* r_pgame, point ref);
 	virtual void draw()const;
+};
+
+class arrow :public shape {
+	Rect* rect1;
+	Triangle* T1;
+	int distance;
+	int size;
+
+public:
+	arrow(game* r_pgame, point ref, int size=50);
+	void SetSize(int s);
+	int GetSize() const;
+	virtual void draw() const;
 };
